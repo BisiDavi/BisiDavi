@@ -8,6 +8,7 @@
 > - ⌨️ Currently digging deep into NEAR Protocol and creating web3 projects with it.
 > - 🏗️ I'm looking to collaborate on eCommerce projects and web3 projects (dApps)
 > - 💻 My current stack is Typescript, React, Nextjs, Nodejs, Expressjs, Firebase, MongoDB, MySQL and Rust
-> - Reach me via [ 🌎 My website](https://olubisi-david.vercel.app) or [ ✉️ mail](oludavidconnect@gmail.com)
-> - fuelled by 💦 water and 🎧 music while at work.
-> - 💼 currently open to remote jobs
+> - ☎️ Reach me via [ 🌎 My website](https://olubisi-david.vercel.app) or [ ✉️ mail](oludavidconnect@gmail.com)
+> - 😎 Fuelled by 💦 water and 🎧 music while at work.
+> - ⚡️ I enjoy doing hackathon. 
+> - 💼 Currently open to remote jobs
