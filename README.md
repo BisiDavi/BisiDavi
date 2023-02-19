@@ -1,4 +1,4 @@
-# Hello there 😃
+# Hello 😃
 
 ## Welcome, I'm Olubisi David, nice to meet you 👋.
 
